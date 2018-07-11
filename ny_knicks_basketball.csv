@@ -1,4 +1,4 @@
-PLAYER,NUMBER,POS,HEIGHT,WEIGHT,BIRTHDATE,AGE
+name,number,position,height,weight,birthdate,age
 "Enes Kanter",00,C,6-11,245,"MAY 20 1992",26
 "Troy Williams",0,F,6-7,218,"DEC 30 1994",23
 "Emmanuel Mudiay",1,G,6-5,200,"MAR 05 1996",22

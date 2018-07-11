@@ -28,3 +28,5 @@ ny_knicks = pd.read_csv('ny_knicks_basketball.csv').to_dict(orient='records')
 
 # now that we have the data for each player
 # add and commit the players, teams, sports and cities below
+# we will need to probably write at least one function to iterate over our data and create the players
+# hint: it may be a good idea to creat the Teams, Cities, and Sports first 
