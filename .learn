@@ -1,0 +1,12 @@
+tags:
+  - sql
+  - jupyter
+  - sqlalchemy
+  - has many
+  - belongs to
+
+languages:
+  - sql
+  - python
+
+jupyter_notebook: true
