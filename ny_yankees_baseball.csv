@@ -1,4 +1,4 @@
-Name,Age,Country,B,Ht,Wt,DoB,Yrs,G,GS,Batting,Defense,P,C,1B,2B,3B,SS,LF,CF,RF,OF,DH,PH,PR,WAR
+Name,Age,Country,B,HEIGHT,WEIGHT,DoB,Yrs,G,GS,Batting,Defense,P,C,1B,2B,3B,SS,LF,CF,RF,OF,DH,PH,PR,WAR
 "Miguel Andujar",23,do,R,"6'0",215,"Mar 2 1995",2,79,78,79,74,0,0,0,0,74,0,0,0,0,0,6,1,0,0.9
 "Tyler Austin",26,us,R,"6'2",220,"Sep 6 1991",3,34,33,34,27,0,0,27,0,0,0,0,0,0,0,7,0,0,0.2
 "Dellin Betances",30,us,R,"6'8",265,"Mar 23 1988",7,38,0,4,38,38,0,0,0,0,0,0,0,0,0,0,0,0,0.8
